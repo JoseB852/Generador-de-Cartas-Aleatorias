@@ -1,0 +1,40 @@
+body {
+  background-color: green;
+}
+
+.card {
+  background-color: white;
+  margin: auto;
+  margin-top: 10%;
+  height: 300px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.top {
+  line-height: 60px;
+  padding-left: 10px;
+  font-size: 60px;
+  height: 25%;
+  top: 0;
+}
+
+.numbers {
+  font-size: 100px;
+  text-align: center;
+}
+
+.bottom {
+  padding-left: 10px;
+  line-height: 60px;
+  font-size: 60px;
+
+  height: 25%;
+  transform: rotate(180deg);
+}
+
+.btn-warning {
+  margin-top: 20px;
+  margin-left: 95px;
+  width: 200px;
+}
